@@ -7,3 +7,8 @@ daffa
 
 zzzzzzz
 
+<<<<<<< HEAD
+=======
+yyeeeyy
+sdffff
+>>>>>>> c6ab2683963e0e0e3db39c8a208d8bff0f9b7f38
